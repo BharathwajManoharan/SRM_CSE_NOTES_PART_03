@@ -37,12 +37,12 @@ This repository is meant to be a collaborative effort, and your contributions ar
 
 Please ensure that your contributions align with the repository's purpose and adhere to the guidelines mentioned in the [CONTRIBUTING.md](./CONTRIBUTING.md) file.
 
-Let's work together to make this repository a valuable resource for all third-year students!
-
 ## Need Assistance with Downloading Files?
 
 If you encounter any difficulties while downloading files from this repository, I have provided an alternative download link for your convenience. 
+
 You can access the notes and resources from the following location: [Download Link](https://mega.nz/folder/4DIg0C4B#3i2s3qrut0kgmK4fxSP8YQ).
+
 Please note that the provided link will direct you to an external file hosting service, where you can easily download the files you need. If you still have any issues or questions, feel free to reach out to us via the provided contact information.
 
 This link leads to a digital repository at SRM University: http://dspace.srmist.edu.in/jspui/.
