@@ -45,6 +45,6 @@ If you encounter any difficulties while downloading files from this repository, 
 You can access the notes and resources from the following location: [Download Link](https://mega.nz/folder/4DIg0C4B#3i2s3qrut0kgmK4fxSP8YQ).
 Please note that the provided link will direct you to an external file hosting service, where you can easily download the files you need. If you still have any issues or questions, feel free to reach out to us via the provided contact information.
 
-This link leads to a digital repository at SRM University: http://dspace.srmist.edu.in/jspui/
+This link leads to a digital repository at SRM University: http://dspace.srmist.edu.in/jspui/.
 
-This Mega link contains everything until now, including resources for the 1st to 3rd year and a few others: [Download_Link](https://mega.nz/folder/FHwgiCJA#2cacG5hzTjoC5YvnlTugGQ)
+This Mega link contains everything until now, including resources for the 1st to 3rd year and a few others: [Download_Link](https://mega.nz/folder/FHwgiCJA#2cacG5hzTjoC5YvnlTugGQ).
