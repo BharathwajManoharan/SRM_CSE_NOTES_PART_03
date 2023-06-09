@@ -1,0 +1,32 @@
+UNIT IV
+
+4 Marks
+
+1. Demonstrate  the principle of a photonic switch based on self electro optic Device (SEED).
+2.Explain about Electro-optic Modulators
+3. List out the advantages of Erbium Doped Fiber Amplifiers.
+4. Write a short note about Raman Nath Modulator.
+5. Derive the expression for optical amplifier gain.
+
+12 Marks
+
+1.Explain in detail about Raman Nath and Bragg modulator 
+2.Discuss the basic configuration and gain of Semiconductor optical amplifier (SOA)
+3. Explain with a neat diagram, the construction and working of electro optic effect based longitudinal electro optic modulator.
+
+UNIT V
+
+4 Marks
+
+6. Differentiate monolithic and hybrid integration of OEIC fabrication
+7. Discuss about the materials and processing of OEICs
+8. Comment on Active couplers.
+9. How longitudinal electro optic modulator differs from transverse electro optic modulator?
+10. What are the challenges met by optoelectronic integrated circuit?
+11. What do you mean by front end Photo receivers?
+
+12 Marks
+
+4.Illustrate the operation of a PIN diode integrated HBT photo receiver with a neat diagram
+5. With a neat sketch, write about the guided wave Mach-Zehnder interferometer
+6. Discuss the materials and processing techniques of OEIC.

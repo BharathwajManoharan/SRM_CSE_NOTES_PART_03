@@ -1,0 +1,34 @@
+Part B
+
+U - 4
+
+Raman Nath Modulator.
+
+Derivation of optical amplifier gain
+
+longitudinal electro-optic modulator, transverse electro-optic modulator differenc
+
+
+U - 5
+
+front end Photo receivers
+
+Monolithic and Hybrid Integration differences
+
+Active couplers.
+
+Part C
+
+U - 4
+
+construction and working of longitudinal electro-optic modulator
+
+working principle and gain of Semiconductor optical amplifier (SOA).
+
+
+U - 5
+
+working of Mach Zehnder Interferometers & applications
+
+
+materials and processing techniques of OEIC

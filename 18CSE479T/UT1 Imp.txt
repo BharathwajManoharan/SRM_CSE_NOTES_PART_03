@@ -1,0 +1,9 @@
+1. Compare statistical model and ML
+2. Explain confusion Matrix
+3. Explain the steps in machine learning model, development and deployment
+4. When to stop tuning ML models
+5. Illustrate supervised learning with example
+6. Classify ML losses
+7. a) Bias v Variance
+b) Train and Test data
+8. Statistical Terminology for model building and validation

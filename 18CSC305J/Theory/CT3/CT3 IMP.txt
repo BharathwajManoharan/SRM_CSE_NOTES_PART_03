@@ -1,0 +1,49 @@
+Important question in my point of view 
+
+Fourth unit
+1.learning algorithms(adaptive, multi agent, ensemble, learning for decision making, distributed, speedup learning)
+2.support vector machine
+3.reinforcement learning
+4.blocks world, goal stack planning.
+
+Fifth unit
+1.NLP and it's level
+2.Information extraction and retrieval
+3.NLP applications
+4.deep learning algorithms
+
+Another one:
+
+Unit 4
+ goal stack 
+Svm 
+Dession tree 
+Types of learning
+Unit 5
+Expect system ( confirm) 
+Machine translation
+Information extraction, retrieve
+Nlp
+
+CSE GEN
+
+Unit 4
+ 4 marks:
+MEA
+Approaches of Machine learning 
+Ensemble learning methods
+Various types of learning methods
+12 M:
+SVM
+Reinforcement learning 
+Distribured learning
+Unit 5
+4m
+Expert system architecture 
+NLP tasks and levels
+Sentiment analysis 
+Intelligeny agents
+12M
+MYCIN XCON expert systems 
+Business intelligence and analytics
+Deep learning algorithms

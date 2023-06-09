@@ -1,0 +1,78 @@
+1)Compare Simple and Multiple Linear Regression 
+
+
+2)Demonstrate Random Forest
+
+
+3)Explain Logistics Regression and its advantages
+
+4)Explain Naïve Bayes Classification with an example
+
+5)Analyze the  random forest using German credit data
+
+
+6)Compare Ridge and Lasso regression modeling
+
+
+7)Let us consider an example where the 5 weeks sales data (in Thousands) is given as shown below in Table. Apply linear regression technique to predict the 7th and 9th week sales.
+xi	yi
+1	1.2
+2	1.8
+3	2.6
+4	3.2
+5	3.8
+
+8)Construct the Decision tree for the below sample dataset using Information Gain
+S.No.	Outlook 	Temperature	Humidity	Windy 	Play
+1	Sunny	Hot	High	Weak	No
+2	Sunny 	Hot	High	Strong	No
+3	Overcast	Hot	High	Weak	Yes
+4	Rainy	Mild	High	Weak	Yes
+5	Rainy	Cool	Nominal	Weak	Yes
+6	Rainy	Cool	Nominal	Strong	No
+7	Overcast	Cool	Nominal	Strong	Yes
+8	Sunny	Mild	High	Weak	No
+9	Sunny	Cool	Nominal	Weak	Yes
+10	Rainy	Mild	Nominal	Weak	Yes
+11	Sunny	Mild	Nominal	Strong	Yes
+12	Overcast	Mild	High	Strong	Yes
+13	Overcast	Hot	Nominal	Weak	Yes
+14	Rainy	Mild	High	Strong	No
+
+9)Illustrate the Curse of dimensionality with 1D, 2D, and 3D 
+
+10)Define KNN voter example
+
+11)What is a Joint probability? Explain it with a simple Venn Diagram.
+
+
+12)Use of Conditional probability to build the Naïve Bayesian
+
+
+13)Explain grid search on random forest
+
+14)Define Curse of dimensionality 
+
+15)What is the purpose of using Laplace estimator?
+
+
+16)Use of Conditional probability to build the Naïve Bayesian
+
+
+17)Assumption of linear regression in detail
+
+18)Find the Person X belongs to which class based on the given values weight = 57kgs and height = 170cm (using K Nearest Neighbor)
+Weight (kgs)	Height (cm)	Class
+51		167		Underweight
+62		182		Normal
+69		176		Normal
+64		173		Normal
+65		172		Normal
+56		174		Underweight
+58		169		Normal
+57		173		Normal
+55		170		Normal
+
+19)Explain Naïve Bayes Classification with an example
+
+20)Explain KNN classifier with breast cancer Wisconsin data

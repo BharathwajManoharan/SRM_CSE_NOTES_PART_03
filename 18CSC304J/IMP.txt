@@ -1,0 +1,54 @@
+unit 1 :
+	12m:
+	phases of compiler
+	RE to DFa
+
+	4m:
+	tokens,patterns,lexeme
+	operations on language
+	input buffering
+	RE for identifier
+
+ct2  12m :
+Unit -2
+Construct Predictive parsing table
+ Find first() and follow () 
+Remove left factoring.
+
+Unit 3
+LR(0) Itemsets find out 
+SLR(1) 
+CLR(1) 
+LALR(1)
+
+4m:
+shift reduce parsing
+elimination of ambiguity,left reccursion,left factoring
+diff lalr slr calr
+backtracking
+alg for predictive and non ppredictive parsing
+
+
+unit 4 12m:
+	code generation
+	3 address code ,types,implementaion
+	backpatching generate inetermediatecode for 
+
+	4m:
+	triples for exp a*-(b+c)
+	3 address code x=*y,a=7x==&x;
+	quadraples over triples
+	notation to represent in intermediate lang
+	giv exp into intermediate code
+
+unit 5 12m:
+	group optimization
+	stack allocation in memory
+	diff storage allocation methods
+
+	4m:
+	concept of code optimization
+	technique used in loop optimization
+	peephole optimization
+	block dia of organization of code optimized
+	activation tree and structure of activation rec

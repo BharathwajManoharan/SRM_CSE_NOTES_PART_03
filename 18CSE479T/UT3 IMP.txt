@@ -1,0 +1,29 @@
+Unit IV:
+
+4 Marks Questions:
+1. Describe Support Vector Classifier.
+2. Explain about Kernel functions with suitable diagram. 
+3. Draw the Biological Neural Network map with Artificial Neural Network.
+4. Explain about Stochastic Gradient Descent with suitable diagram.
+5. Explain Artificial Neural Networks with a suitable example.
+
+12 Marks Questions:
+1. Discuss the Deep learning software.
+2. Discuss on Support Vector Machine working principles in detail.
+3. Illustrate Stochastic gradient descent for Optimization of neural networks with a neat diagram.
+4. Explain in detail on Forward and Backward Propagation in Artificial Neural Network with a neat diagram.
+5. How to optimize the Neural Network?
+6. Explain the Deep architecture of Neural networks. Give the thumb rules for designing the Deep neural Networks. Briefly explain about Deep Learning software.
+
+Unit V:
+
+4 Marks Questions:
+1. How do you evaluate cluster?
+2. Represent Elbow method with a suitable example.
+3. Explain K-means clustering working methodology from first principles with a suitable example.
+4. Formulate the optimal number of clusters with example.
+5. What are the Pros and cons of PCA? 
+
+12 Marks Questions:
+1. Describe Principal Component Analysis working methodology from first principles with a suitable example.
+2. Describe SVD applied on handwritten digits using scikit-learn.

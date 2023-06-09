@@ -1,0 +1,11 @@
+Aml 12
+
+SIFT
+Haar cascade face detector
+PCA
+canny edge detection
+
+Notes:
+
+Should write all sub heading and program
+U can cut short the program

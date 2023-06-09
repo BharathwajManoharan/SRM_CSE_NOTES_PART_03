@@ -1,0 +1,34 @@
+Unit 1
+Toy problem
+Csp
+Types of agents
+Agents characteristics
+Intelligent backtracking
+Constraint propagation
+
+Unit 2
+Informed and uninformed searches and their performance metrics
+Evolutionary alg- genetic alg
+Hill climbing
+Simulated annealing
+Alpha beta pruning and min max
+
+Unit 3
+Propositional and predicate lghic
+Resolution and unification
+Wumpus world problem
+Knoweledge representation types
+All unknown knowledge representation methods
+
+Unit 4
+Block world problem
+Mean end analysis
+Ml algorithms-linear reg, svm, logistic reg, k means clustering and other alg
+Ann 
+Backpropagation 
+
+Unit 5
+Expert system architecture
+Nlp
+Deep learning alg
+Sentimental analysis

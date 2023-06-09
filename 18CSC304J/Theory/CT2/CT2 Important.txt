@@ -1,0 +1,8 @@
+Compiler design ct2 portions(not lesson wise)
+role of a parser ( diagram must)
+fla part :leftmost derivation right most derivation top down parser bottom up parser (theory) rules for first and follow functions(4m)
+rules for lead and trialing functions(4m)
+left recursion and left factoring problems
+error recovery methods in predictive parser and LR parser (imp) role of lexical analyzer
+role of syntax analyzer
+all the parser problems LR SLR LALR CLR (examples are given in book) [12m]
