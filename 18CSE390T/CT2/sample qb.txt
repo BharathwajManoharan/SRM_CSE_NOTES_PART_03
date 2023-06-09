@@ -1,0 +1,10 @@
+1.	Explain in detail about feature detection techniques with relevant examples and diagrams.
+2.	What are feature descriptors? Explain the following feature descriptors: 
+ii) SIFT
+iii)GLOH.
+3.	List the approaches used to locate boundary curves in images. Explain Intelligent Scissors and level set in detail.
+4.	Illustrate the expectation maximization algorithm in K-means and mixture of Gaussians..
+5.	What kinds of features need to be detected and then matched in order to establish an alignment or set of correspondences?  Compare those features.
+6.	How we can quantify the performance of a matching algorithm?
+7.	Explain in detail about Mean Shift  and Mode Finding
+8.	Illustrate Graph cuts and energy-based methods with neat diagram

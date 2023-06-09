@@ -1,0 +1,22 @@
+The following are the changes that must be made in your seminar document before submission. Make sure you do these changes before verification. 
+
+Chapter 2
+Literature survey must be in points 
+Sub headings are 
+- Title 
+- Author
+- Methodology 
+- Techincal Gap 
+- < a para on the paper itself >
+
+
+UML Diagram are expected to be more specific and not generic. 
+
+Chapter 5:
+Under Types of Testing 
+Let the headings be Code and Test results 
+The reference document has Input and test results. Don't use that. 
+
+Name of the 8th chapter is Source Code Implementation and Poster Presentation
+
+Interchange the places of chapters 7 and 8

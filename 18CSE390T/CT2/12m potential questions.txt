@@ -1,0 +1,7 @@
+Cv 12m
+
+
+- Feature detection
+- What are feature descriptors SIFT and GLOH
+- list the approaches used to locate boundary curves in am image, explain intellegent scissors and levels set
+- expectation maximization algorithm in k means and mixture of Gaussian

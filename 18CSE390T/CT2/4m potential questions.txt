@@ -1,0 +1,12 @@
+1.	Discuss about Edge detection.
+2.	Explain Briefly about Feature Tracking
+3.	Explain about Hough transform technique with algorithm, examples, diagrams, and mention some of the applications of this technique.
+4.	Discuss in detail about Intelligent Scissors
+5.	What is meant by Region Splitting and Region Merging? Explain in detail.
+6.	Explain 2D alignment using Least Squares in detail
+7.	Discuss about Bias and Gain normalization
+8.	Explain briefly about vanishing points
+9.	Write short notes on Edge Linking
+10.	Discuss in detail about Snakes
+11.	Difference between divisive and agglomerative algorithms in cluster analysis.
+12.	Write short note on Pose estimation.

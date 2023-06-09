@@ -1,0 +1,32 @@
+Important questions
+Part B-magnetostrictive, ultrasonic,synchros,lvdt,thermoemf sensors, radiation, scintillation detectors
+PartC-piezoelectric elements,capacitive transducers,pyroelectric sensors,Geiger counter
+
+Unit 2
+(4m) 
+1. *Synchros ( diagrams & explanation)
+2. *Capacitive transducer ( equations with explanation 
+3. Magnetostrictive transducer
+4. Ultrasonic transducer (theory)
+5. Capacitor microphone(working explanation) 
+
+
+12 marks 
+1. Transfer matrix equation
+2. LVDT 
+3. Inductive sensor  with equation 
+4. Piezo electric element 
+
+UNIT 3 
+(4m) 
+1. *Pyroelectric thermal sensor 
+2. *Scintillation detector 
+3. Thermo emf sensor 
+4. Radiation sensor 
+5. *Construction of Thermo couple 
+
+(12m) 
+1.  *Thermo couple and types 
+2. *Semiconductor based sensor 
+3. Geiger counter 
+4. Thermal expansion type thermometric sensor

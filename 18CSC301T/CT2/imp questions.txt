@@ -1,0 +1,1 @@
+Portions for CT2:Unit-I  Pumping lemma for Regular languages, FSA with outputs, Complete Unit-II, Unit-III ( except pumping lemma for CFG and PDA to CFG conversion)

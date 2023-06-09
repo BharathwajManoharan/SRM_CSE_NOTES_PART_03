@@ -1,0 +1,42 @@
+TCP vs SCTP.
+Services of TCP 
+three main divisions of the DNS.
+Types of Web documents.
+short notes on TCP package with a neat sketch.
+TCP vs UDP.
+services of SCTP.
+DNS  domains and domain name space
+local  and remote login in TELNET
+Components of an URL
+
+Packet format of SCTP 
+DNS on the Internet and describe the categories of domains
+Client-server communication paradigm using TCP connection
+The  Association of SCTP client and Server communication
+Services of UDP packet 
+HTTP Transaction and  HTTP Message
+
+4m
+TCP vs SCTP.
+Services of TCP 
+three main divisions of the DNS.
+Types of Web documents.
+short notes on TCP package with a neat sketch.
+
+
+TCP vs UDP.
+services of SCTP.
+DNS  domains and domain name space
+local  and remote login in TELNET
+Components of an URL
+
+12m
+
+Packet format of SCTP 
+DNS on the Internet and describe the categories of domains
+Client-server communication paradigm using TCP connection
+
+
+The  Association of SCTP client and Server communication
+Services of UDP packet 
+HTTP Transaction and  HTTP Message

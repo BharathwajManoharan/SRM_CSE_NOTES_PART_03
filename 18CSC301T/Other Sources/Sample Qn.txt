@@ -1,0 +1,20 @@
+1.A company named “FLA Designs and Solutions” launched a portal for the benefits of their employees. In this context, the employees need to be registered newly in the portal. For password generation the guidelines given as follows.
+ i.The password is combination of alphabets, digits and special characters.
+ ii.The password should start with an alphabet and end with digit
+ iii.The number of alphabets should be equal to number of digits and number of special characters greater than the number of alphabets.
+ iv.All the symbols should occur consecutively.
+Also validate the automata for an example string. 
+
+a)Construct the automata which uses the stack data structure for the following scenario. (8 marks)
+b)Can Finite state automata be constructed for the same? If, so construct the finite state automata. ( 8 marks)
+c)What can be inferred about the language accepted by the above two automata’s? (2 marks)
+d)Which of the following holds true in the above possible scenario?
+ i)Only DFA can be constructed 
+ ii)PDA and DFA Can be constructed
+ iii)PDA and NFA can be constructed
+ iv)Only PDA can be constructed
+e)The maximum number of elements that the stack in the above constructed PDA can holds is ____
+ a)10
+ b)n
+ c)n*n
+ d)infinite
