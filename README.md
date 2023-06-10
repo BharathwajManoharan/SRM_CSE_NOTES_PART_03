@@ -47,6 +47,6 @@ Please note that the provided link will direct you to an external file hosting s
 
 This link leads to a digital repository at SRM University: http://dspace.srmist.edu.in/jspui/.
 
-This Mega link contains everything until now, including resources for the 1st to 3rd year and a few others: [BGM_Notes(https://mega.nz/folder/FHwgiCJA#2cacG5hzTjoC5YvnlTugGQ).
+This Mega link contains everything until now, including resources for the 1st to 3rd year and a few others: [BGM_Notes](https://mega.nz/folder/FHwgiCJA#2cacG5hzTjoC5YvnlTugGQ).
 
 -peacefulwarrior
