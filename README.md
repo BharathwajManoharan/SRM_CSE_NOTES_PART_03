@@ -22,6 +22,8 @@ Welcome to the Third Year Notes Repository! This repository contains notes and q
 - [Seminar - I (18CSP103L)](./18CSP103L)
 - [Seminar - II (18CSP106L)](./18CSP106L)
 - [Statistical Machine Learning (18CSE479T)](./18CSE479T)
+- [Distributed Operating Systems (18CSE356T)](./18CSE356T)
+- [Computational Logic (18CSE351T)](./18CSE351T)
 
 Each subject folder contains detailed lecture notes, study materials, and question banks to help you in your studies. Feel free to explore the folders and download the resources you need.
 
