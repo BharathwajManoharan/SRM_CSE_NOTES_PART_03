@@ -1,0 +1,11 @@
+CT-1
+
+12 marker
+-explain design issues in detail
+-explain nos in detail 
+-hardware and software (issues?) dos
+
+4 marker:
+-list transparency
+-pro and con of dos
+-short note on multiprocessor time sharing system
